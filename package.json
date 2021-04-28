@@ -1,0 +1,9 @@
+{
+	"name":"com.rone.testpackage",
+	"displayname":"my testpackage",
+	"description":"this is my testpackage",
+	"version":"1.0.0",
+	"unity":"2018.3",
+	"licenes":"MIT",
+	"dependencies":{}
+}
