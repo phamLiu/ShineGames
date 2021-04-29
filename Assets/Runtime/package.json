@@ -2,7 +2,7 @@
 	"name":"com.rone.testpackage",
 	"displayname":"my testpackage",
 	"description":"this is my testpackage",
-	"version":"1.0.3",
+	"version":"1.0.4",
 	"unity":"2018.3",
 	"licenes":"MIT",
 	"dependencies":{}
