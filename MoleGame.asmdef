@@ -1,8 +1,6 @@
 {
     "name": "MoleGame",
-    "references": [
-        "GUID:5b8407d622ec03a40b2c13186d96fd24"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
